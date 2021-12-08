@@ -1,6 +1,8 @@
 // Soccer_Scoreboard_Freehill1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
-//Create a soccer scoreboard using OOP in C++
+//Date created: 11/25/2021
+//Tarrant County College/Dr. Tyson McMillan
+//An OOP based Football Scoreboard with options to update team name, city, coach, score, timeouts
 
 #include <iostream>
 #include <string>
